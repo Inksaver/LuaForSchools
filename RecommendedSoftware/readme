@@ -3,3 +3,15 @@ This section contains links to the recommended software for working with Lua.
 You can use any text editor such as Notepad++, Atom, and many others, but using an IDE makes life easier.
 
 I use ZeroBrane Studio from https://studio.zerobrane.com and there is a file in this section called user.lua which has my preferred settings stored in it.
+
+To use this file:
+
+1. start ZeroBraneStudio.
+2. Menu: Edit --> Preferences --> Settings: system
+3. Copy/Paste the contents of user.lua
+4. Save
+5. Restart
+
+There are 3 colour choices on lines 41, 42, 43 with line 43 the current choice
+To use another style, un-comment the line, and comment out line 43
+Save and re-start
