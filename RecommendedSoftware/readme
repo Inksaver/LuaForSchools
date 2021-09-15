@@ -1,0 +1,5 @@
+This section contains links to the recommended software for working with Lua.
+
+You can use any text editor such as Notepad++, Atom, and many others, but using an IDE makes life easier.
+
+I use ZeroBrane Studio from https://studio.zerobrane.com and there is a file in this section called user.lua which has my preferred settings stored in it.
