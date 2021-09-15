@@ -1,3 +1,4 @@
+-- Github defaults to 1 tab = 8 spaces so layout looks a bit weird. Use 4 spaces in your IDE/Text editor
 --	Use the template below to create an output that looks like this:
 --	Ignore the --[[ and ]]. They just allow multi-line comments!
 
