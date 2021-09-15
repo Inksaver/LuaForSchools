@@ -1,5 +1,5 @@
 --	Use the template below to create an output that looks like this:
--- Ignore the --[[ and ]]. They just allow multi-line comments!
+--	Ignore the --[[ and ]]. They just allow multi-line comments!
 
 --[[
 
