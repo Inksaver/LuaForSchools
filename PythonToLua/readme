@@ -1,1 +1,3 @@
 This section is intended for those familiar with Python to learn how to translate Python to Lua
+
+The Advanced section contains both Lua and Python files to output coloured text to the console/terminal. The two are as close to using identical techniques as is possible.
