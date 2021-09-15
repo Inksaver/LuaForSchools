@@ -5,9 +5,9 @@
 
 =========================================
 |                                       |
-|	Welcome to Lua programming!			|
-|		This line is tabbed in x2		|
-|		So is this one!					|
+|    Welcome to Lua programming!        |
+|        This line is tabbed in x2      |
+|        So is this one!                |
 +++++++++++++++++++++++++++++++++++++++++
 	
 ]]
