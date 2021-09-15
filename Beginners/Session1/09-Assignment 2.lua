@@ -1,8 +1,9 @@
+-- Github defaults to 1 tab = 8 spaces. Use the Tabs menu to change the spaces to 4 ----------------------------------------------------^
 --	Use the template below to create an output that looks like this:
 --[[
 
 -----------------------------------------
-|	Personal Data Collection App		|
+|    Personal Data Collection App       |
 -----------------------------------------
 Please type your first name_
 How old are you?_
