@@ -3,7 +3,7 @@
 function main()
 	io.write("Hello ")
 	io.write("World \n") -- note \n
-	io.write("Version 4")
+	io.write("Version 4\n")
 end
 
 main()
