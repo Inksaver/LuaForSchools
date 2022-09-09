@@ -4,7 +4,7 @@
 function main()
 	print("Hello:")
 	print("\tWorld ")
-	io.write("\tVersion 4")
+	io.write("\tVersion 5")
 end
 
 main()
