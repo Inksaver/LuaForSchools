@@ -9,7 +9,7 @@ function main()
 	if userInput == "your name" then	-- user typed in 'your name' as instructed!
 		print("That is correct!")
 	else	-- user typed in their real name
-		print(string.upper("Unfortunately, that is wrong! Try again...\n")) -- shout at the user! (UPPER CASE)
+		print(("Unfortunately, that is wrong!"):upper().." Try again...\n") -- shout at the user! (UPPER CASE)
 	end
 end
 
