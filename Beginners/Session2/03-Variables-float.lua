@@ -1,4 +1,4 @@
--- demonstrate float and if statement
+-- demonstrate float and use of tostring() and tonumber()
 function input(prompt)
 	io.write(prompt .. "_")
 	return io.read()
