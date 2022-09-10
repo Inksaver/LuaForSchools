@@ -12,9 +12,9 @@ As soon as you run it, you are reminded to save it (annoying: it should auto-sav
 
 Python Example:
 
-if condition == True:
+    if condition == True:
 
-    print("Success!")  # This code has to be 4 spaces or 1 tab from the margin, otherwise it errors
+        print("Success!")  # This code has to be 4 spaces or 1 tab from the margin, otherwise it errors
   
 Lua Example:
 
