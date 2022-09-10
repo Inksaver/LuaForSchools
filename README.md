@@ -18,11 +18,11 @@ Python Example:
   
 Lua Example:
 
-if condition == true then
+    if condition == true then
 
-    print("Success!") -- This code indented for human readability
+        print("Success!") -- This code indented for human readability
     
-end                 -- end keyword used to delineate all code blocks, including functions
+    end                 -- end keyword used to delineate all code blocks, including functions
 
 This also works without error:
 
