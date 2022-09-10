@@ -26,7 +26,7 @@ Lua Example:
 
 This also works without error:
 
-if condition == true then print("Success!") end
+    if condition == true then print("Success!") end
 
 Try that in Python!
 
