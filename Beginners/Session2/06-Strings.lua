@@ -13,11 +13,11 @@ function main()
 	
 	-- string.upper() converts all characters to UPPER CASE
 	print("Your name ".. userInput .. " in upper case is ".. string.upper(userInput))
-	print("Your name ".. userInput .. " in upper case is ".. (userInput):upper())
+	print("Your name ".. userInput .. " in upper case is ".. userInput:upper())
 	
 	-- string.lower() converts all characters to lower case
 	print("Your name ".. userInput .. " in lower case is ".. string.lower(userInput))
-	print("Your name ".. userInput .. " in lower case is ".. (userInput):lower())
+	print("Your name ".. userInput .. " in lower case is ".. userInput:lower())
 end
 
 main()
