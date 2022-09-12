@@ -2,7 +2,7 @@ kb = require "kboard"
 
 local function quit()
 	io.write("Enter to quit")
-		io.read()
+	io.read()
 end
 
 local function testKboard()
