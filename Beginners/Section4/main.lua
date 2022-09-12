@@ -6,11 +6,6 @@ local function quit()
 end
 
 local function testKboard()
-	--[[
-	If in IDE row is kept at -1, which disables the SetCursorPos in Kboard library
-	so the output scrolls as normal
-	Otherwise incorrect answers keep the output on the same linefeed
-	]]
 	local name = kb.GetString("What is your name?", true, 3, 6)
 	print("User name : "..name.." <- See how I used a capital letter!")
 
