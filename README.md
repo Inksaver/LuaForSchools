@@ -11,23 +11,23 @@ There is often confusion with the syntax when typing your first lines, especiall
 As soon as you run it, you are reminded to save it (annoying: it should auto-save), then you get a bunch of incomprehensible error messages because you forgot/did not understand the idea of code blocks being delineated with whitespace.
 
 Python Example:
+```python
+if condition == True:
 
-    if condition == True:
-
-        print("Success!")  # This code has to be 4 spaces or 1 tab from the margin, otherwise it errors
-  
+    print("Success!")  # This code has to be 4 spaces or 1 tab from the margin, otherwise it errors
+```
 Lua Example:
+```lua
+if condition == true then
 
-    if condition == true then
-
-        print("Success!") -- This code indented for human readability
+    print("Success!") -- This code indented for human readability
     
-    end                 -- end keyword used to delineate all code blocks, including functions
-
+end                 -- end keyword used to delineate all code blocks, including functions
+```
 This also works without error:
-
-    if condition == true then print("Success!") end
-
+```lua
+if condition == true then print("Success!") end
+```
 Try that in Python!
 
 The best Lua IDE ZeroBrane from https://studio.zerobrane.com has intellisense and syntax checking, making your first steps easy.
