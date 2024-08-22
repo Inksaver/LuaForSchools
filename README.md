@@ -31,3 +31,4 @@ if condition == true then print("Success!") end
 Try that in Python!
 
 The best Lua IDE ZeroBrane from https://studio.zerobrane.com has intellisense and syntax checking, making your first steps easy.
+Replit can now run Lua and even Love2d projects, so this repository has additional files to reflect these changes
